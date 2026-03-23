@@ -15,7 +15,7 @@
 
 <p align="center">
 
-![GitHub Org Stars](https://img.shields.io/github/stars/rajwadainfotech?style=for-the-badge)
+
 ![Open Source](https://img.shields.io/badge/Open%20Source-Welcome-brightgreen?style=for-the-badge)
 ![Tech](https://img.shields.io/badge/Tech-Modern-blue?style=for-the-badge)
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-success?style=for-the-badge)
