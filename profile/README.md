@@ -1,218 +1,119 @@
----
+<div align="center">
+  <img src="https://rajwadainfotech.com/logo.png" alt="Rajwada Infotech" width="220"/>
+  <h1>Rajwada Infotech</h1>
+  <p><strong>Engineering scalable digital solutions for forward-thinking organizations</strong></p>
 
-# 🏰 Rajwada Infotech
+  <p>
+    <a href="https://rajwadainfotech.com/">Website</a> •
+    <a href="https://rajwadainfotech.com/contact">Contact</a> •
+    <a href="mailto:hello@rajwadainfotech.com">hello@rajwadainfotech.com</a>
+  </p>
 
-<p align="center">
-  <b>Building Intelligent Digital Solutions for a Connected World</b>
-</p>
-
-<p align="center">
-  🌐 <a href="https://rajwadainfotech.com/">Website</a> •
-  💼 Technology Solutions •
-  🚀 Innovation Driven •
-  🌎 Global Impact
-</p>
-
-<p align="center">
-
-
-![Open Source](https://img.shields.io/badge/Open%20Source-Welcome-brightgreen?style=for-the-badge)
-![Tech](https://img.shields.io/badge/Tech-Modern-blue?style=for-the-badge)
-![Maintained](https://img.shields.io/badge/Maintained-Yes-success?style=for-the-badge)
-
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/Open%20Source-Active-brightgreen?style=for-the-badge" alt="Open Source"/>
+    <img src="https://img.shields.io/badge/Technology-Modern%20Stack-4f46e5?style=for-the-badge" alt="Modern Stack"/>
+    <img src="https://img.shields.io/badge/Maintained-Actively-10b981?style=for-the-badge" alt="Actively Maintained"/>
+  </p>
+</div>
 
 ---
 
-# ✨ About Rajwada Infotech
+### About Rajwada Infotech
 
-**Rajwada Infotech** is a technology company focused on building modern software solutions that empower businesses to innovate, scale, and succeed in the digital world.
+Rajwada Infotech designs and delivers high-quality, production-grade software solutions that enable businesses to scale efficiently and compete effectively in digital markets.
 
-We combine **engineering excellence, creative thinking, and modern technologies** to build products that are reliable, scalable, and impactful.
-
-From startups to enterprises, we help organizations transform their ideas into powerful digital platforms.
-
-🌐 **Learn more:**
-[https://rajwadainfotech.com/](https://rajwadainfotech.com/)
+We combine strong software engineering practices, modern architecture patterns, and current-generation technologies to transform ideas into reliable, maintainable, and performant digital products — from early-stage startups to established enterprises.
 
 ---
 
-# 🚀 Our Mission
+### Our Purpose
 
-To deliver **innovative, scalable, and secure technology solutions** that help businesses grow faster and operate smarter in the digital era.
-
----
-
-# 💡 What We Do
-
-We specialize in designing and building powerful digital products.
-
-## 🌐 Web Development
-
-Modern, scalable websites and web applications with performance and UX at the core.
-
-## 📱 Mobile App Development
-
-High-quality mobile applications for **Android, iOS, and cross-platform ecosystems**.
-
-## 🧑‍💻 Custom Software Development
-
-Tailor-made enterprise software solutions that solve real business challenges.
-
-## ☁️ Cloud Solutions
-
-Secure and scalable infrastructure powered by modern cloud platforms.
-
-## 🔐 Cybersecurity
-
-Protecting applications, networks, and digital assets with advanced security strategies.
-
-## 📊 IT Consulting
-
-Helping businesses adopt the right technologies and build efficient digital systems.
+To build secure, scalable, and maintainable technology platforms that create measurable business value and provide exceptional user experiences.
 
 ---
 
-# 🛠 Technology Stack
+### Core Capabilities
 
-We use **modern technologies and best practices** across the development lifecycle.
+- **Web Applications**  
+  High-performance, responsive, and SEO-optimized web platforms built with modern JavaScript frameworks.
 
-### Frontend
+- **Mobile Applications**  
+  Native and cross-platform mobile solutions for iOS and Android.
 
-```
-React • Next.js • Vue • HTML5 • CSS3 • Tailwind • TypeScript
-```
+- **Backend & API Development**  
+  Robust, API-first services and microservices architectures.
 
-### Backend
+- **Cloud & Infrastructure**  
+  Cloud-native infrastructure design, migration, and optimization across major providers.
 
-```
-Node.js • Python • .NET • Java • REST APIs • GraphQL
-```
+- **Security & Compliance**  
+  Application security, secure development lifecycle, and threat modeling.
 
-### Mobile
-
-```
-Flutter • React Native • Kotlin • Swift
-```
-
-### Cloud & DevOps
-
-```
-AWS • Azure • Docker • Kubernetes • CI/CD • GitHub Actions
-```
-
-### Databases
-
-```
-PostgreSQL • MongoDB • MySQL • Redis
-```
+- **Technology Advisory**  
+  Architecture reviews, technology due diligence, modernization roadmaps, and strategic consulting.
 
 ---
 
-# 📂 Our GitHub Organization
+### Current Technology Focus (2025–2026)
 
-This organization hosts projects related to:
-
-```
-🌐 Web Applications
-📱 Mobile Apps
-⚙️ APIs & Backend Services
-🧰 Developer Tools
-🔬 Experimental Projects
-📦 Open Source Libraries
-```
-
-Our repositories showcase the tools, frameworks, and solutions we build to power modern applications.
+| Layer              | Primary Technologies                          | Evaluating / Watching                  |
+|--------------------|-----------------------------------------------|----------------------------------------|
+| Frontend           | React, Next.js, TypeScript, Tailwind CSS      | Astro, Svelte, SolidStart              |
+| Backend            | Node.js, Python (FastAPI), Go                 | Rust, Bun                              |
+| Mobile             | Flutter, React Native, Expo                   | SwiftUI, Jetpack Compose               |
+| Cloud & DevOps     | AWS, Docker, Kubernetes, Terraform, GitHub Actions | Pulumi, Vercel, Fly.io                 |
+| Databases & ORM    | PostgreSQL, Redis, Prisma, Drizzle            | EdgeDB, ClickHouse                     |
+| API & Communication| REST, GraphQL, tRPC                           | gRPC                                   |
 
 ---
 
-# 🤝 Contributing
+### GitHub Organization Overview
 
-We believe in **collaboration and open innovation**.
+This organization hosts:
 
-Developers and contributors are welcome to help improve our projects.
+- Production-ready open-source libraries and utilities  
+- Reference implementations and architecture templates  
+- Developer tooling developed for internal and client projects  
+- Experimental prototypes and proof-of-concept work  
 
-### Contribution Steps
-
-1️⃣ Fork the repository
-2️⃣ Create a new branch
-
-```
-git checkout -b feature/my-feature
-```
-
-3️⃣ Commit your changes
-
-```
-git commit -m "Add new feature"
-```
-
-4️⃣ Push the branch
-
-```
-git push origin feature/my-feature
-```
-
-5️⃣ Open a Pull Request 🚀
+→ [View all repositories](https://github.com/rajwadainfotech?tab=repositories)
 
 ---
 
-# 📚 Engineering Principles
+### Contributing
 
-Our development culture is built around:
+We welcome thoughtful contributions that improve quality, performance, security, or documentation.
 
-✨ Clean and maintainable code
-🚀 Scalable architectures
-🔐 Security-first mindset
-⚡ Performance optimization
-🔄 Continuous improvement
+Standard contribution workflow:
 
----
+1. Fork the repository  
+2. Create a feature branch (`git checkout -b feature/description`)  
+3. Commit changes following conventional commits  
+4. Push the branch and open a pull request  
 
-# 🌍 Community
-
-We believe technology grows stronger through community collaboration.
-
-Our GitHub organization may include:
-
-* Open-source tools
-* Developer frameworks
-* Learning projects
-* Example applications
-
-We welcome developers to explore, learn, and contribute.
+We value:  
+- Clear documentation  
+- Unit/integration tests where applicable  
+- Adherence to existing code style and architecture  
 
 ---
 
-# 📫 Contact Us
+### Contact
 
-🌐 Website
-[https://rajwadainfotech.com/](https://rajwadainfotech.com/)
+- **General & Technical Inquiries**  
+  hello@rajwadainfotech.com  
 
-📧 Email
-[info@rajwadainfotech.com](mailto:info@rajwadainfotech.com)
+- **Business & Partnership Inquiries**  
+  contact@rajwadainfotech.com  
 
-💼 Business Inquiries
-[contact@rajwadainfotech.com](mailto:contact@rajwadainfotech.com)
+- **Website**  
+  https://rajwadainfotech.com  
 
----
-
-# ⭐ Support Our Work
-
-If you like our projects:
-
-⭐ Star our repositories
-🍴 Fork and contribute
-📢 Share with the community
+- **LinkedIn** (link placeholder — update when available)
 
 ---
 
-<p align="center">
-
-**Rajwada Infotech**
-Building the Future with Technology 🚀
-
-</p>
-
----
-
+<div align="center">
+  <p><strong>Building reliable digital foundations for tomorrow's businesses.</strong></p>
+  <p>© Rajwada Infotech</p>
+</div>
