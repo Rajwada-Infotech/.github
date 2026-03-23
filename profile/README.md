@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://rajwadainfotech.com/logo.png" alt="Rajwada Infotech" width="220"/>
+  
   <h1>Rajwada Infotech</h1>
   <p><strong>Engineering scalable digital solutions for forward-thinking organizations</strong></p>
 
@@ -75,8 +75,6 @@ This organization hosts:
 - Reference implementations and architecture templates  
 - Developer tooling developed for internal and client projects  
 - Experimental prototypes and proof-of-concept work  
-
-→ [View all repositories](https://github.com/rajwadainfotech?tab=repositories)
 
 ---
 
