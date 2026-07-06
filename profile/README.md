@@ -1,5 +1,7 @@
 <div align="center">
-  
+
+  <img src="https://raw.githubusercontent.com/Rajwada-Infotech/.github/main/profile/favicon.png" alt="Rajwada Infotech Logo" width="120" />
+
   <h1>Rajwada Infotech</h1>
   <p><strong>Engineering scalable digital solutions for forward-thinking organizations</strong></p>
 
